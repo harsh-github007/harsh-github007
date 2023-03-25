@@ -1,5 +1,5 @@
 Hi there 👋
 
-- 🔭 I’m currently working as Business Operation Associate at ZS Associates.
-- 🌱 I’m currently learning Java Script, Node.js and Power BI.
+- 🔭 I’m currently working as Assistant Manager at Bank of America.
+- 🌱 I’m currently learning Java Script and Node.js.
 - 🌊 I am proficient in working with Alteryx,Tableau,SQL and AWS Athena.
