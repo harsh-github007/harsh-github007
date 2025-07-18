@@ -10,12 +10,10 @@
 
 - 🌱 I’m currently learning **LLMs for automation, Streamlit apps, and Azure Synapse**
 
-- 👨‍💻 My personal projects & research are available at [GitHub](https://github.com/harsh-github007)
+- 🌐 Visit my portfolio: [www.harsh-raj.com](https://www.harsh-raj.com)
 
 - 📝 I publish research occasionally — most recently in **IEEE Xplore 2023**  
   *"Reducing Cloud Workload Costs in Geographically Distributed Data Centers with GeoSched"*
-
-- 📫 How to reach me **harshraj.19061999@gmail.com**
 
 - ⚡ Fun fact **I once automated a reporting process that saved 150+ hours/month**
 
@@ -68,4 +66,5 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/harshraj-cse/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="harshraj-cse" height="30" width="30" /></a>
   <a href="mailto:harshraj.19061999@gmail.com"><img align="center" src="https://img.icons8.com/color/48/gmail--v1.png" alt="gmail" height="30" width="30" /></a>
+  <a href="https://www.harsh-raj.com/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="portfolio" height="30" width="30" /></a>
 </p>
