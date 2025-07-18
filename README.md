@@ -47,10 +47,6 @@
   Python NLP model with web scraping & live dashboard deployment  
   `Python · Flask · Matplotlib · Web Scraping`
 
-- ☁️ **GeoSched (IEEE)**  
-  Cost-efficient cloud workload scheduler across global data centers  
-  `Python · Optimization · Cloud Infrastructure`
-
 - 📊 **Retail Expansion BI**  
   Power BI-driven retail strategy model with 25% revenue growth simulation  
   `Power BI · Excel · Business Intelligence`
