@@ -1,15 +1,16 @@
+
 <h1 align="center">Hi 👋, I'm Harsh Raj</h1>
 <h3 align="center">Assistant Manager | Data Engineer | Automation Enthusiast</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=harshraj-cse&label=Profile%20views&color=0e75b6&style=flat" alt="harshraj-cse" />
+  <img src="https://komarev.com/ghpvc/?username=harsh-github007&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-github007" />
 </p>
 
 - 🔭 I’m currently working on **regulatory risk reporting & ETL automation at Bank of America**
 
 - 🌱 I’m currently learning **LLMs for automation, Streamlit apps, and Azure Synapse**
 
-- 👨‍💻 My personal projects & research are available at [GitHub](https://github.com/harshraj-cse)
+- 👨‍💻 My personal projects & research are available at [GitHub](https://github.com/harsh-github007)
 
 - 📝 I publish research occasionally — most recently in **IEEE Xplore 2023**  
   *"Reducing Cloud Workload Costs in Geographically Distributed Data Centers with GeoSched"*
@@ -37,9 +38,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshraj-cse&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-github007&show_icons=true&theme=default" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshraj-cse&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-github007" alt="GitHub Streak" />
 </p>
 
 ---
