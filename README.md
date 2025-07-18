@@ -25,22 +25,20 @@
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.sql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="aws" width="40" height="40"/></a>
+  <a href="https://www.tableau.com/" target="_blank"><img src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com" target="_blank"><img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/></a>
   <a href="https://www.javascript.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office" target="_blank"><img src="https://img.icons8.com/fluency/48/ms-excel.png" alt="excel vba" width="40" height="40"/></a>
+  <a href="https://learn.microsoft.com/en-us/office/vba/" target="_blank"><img src="https://img.icons8.com/fluency/48/ms-excel.png" alt="excel vba" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-github007&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-github007" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-github007&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
