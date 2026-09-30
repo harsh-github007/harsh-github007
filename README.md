@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshraj-cse/"><img src="https://img.shields.io/badge/-harshraj--cse-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/harshraj-fre/"><img src="https://img.shields.io/badge/-harshraj--fre-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.harsh-raj.com/"><img src="https://img.shields.io/badge/-harsh--raj.com-1a73e8?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:harshraj.19061999@gmail.com"><img src="https://img.shields.io/badge/-harshraj.19061999@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:applications.harsh@gmail.com"><img src="https://img.shields.io/badge/-applications.harsh@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=harsh-github007&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
