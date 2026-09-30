@@ -19,7 +19,7 @@
 
 ### 📝 Publications
 
-- **[Investigate the Properties of FTA Through Empirical Experimentation](https://link.springer.com/chapter/10.1007/978-981-97-5703-9_10)**, with Dilshad Shaik. ETTIS 2024, Springer *Lecture Notes in Networks and Systems*. Fuzzy tiling activation (FTA) gives a reinforcement-learning agent sparse features, but it needs its tiling bound tuned. We reproduced FTA against ReLU in deep Q-learning on LunarLander, and found that normalising FTA's inputs with tanh removes the need for that tuning.
+- **[Investigate the Properties of FTA Through Empirical Experimentation](https://link.springer.com/chapter/10.1007/978-981-97-5703-9_10)**, with Dilshad Shaik. ETTIS 2024, Springer *Lecture Notes in Networks and Systems* · [Interactive explainer](https://harsh-github007.github.io/Fuzzy-Tiling-Activation-RL/) · [Code](https://github.com/harsh-github007/Fuzzy-Tiling-Activation-RL). Fuzzy tiling activation (FTA) gives a reinforcement-learning agent sparse features, but it needs its tiling bound tuned. We reproduced FTA against ReLU in deep Q-learning on LunarLander, and found that normalising FTA's inputs with tanh removes the need for that tuning.
 - **[Reducing Cloud Workload Costs in Geographically Distributed Data Centers with GeoSched](https://ieeexplore.ieee.org/document/10307394)**. IEEE, 2023.
 
 ### 📈 Finance research, with live tools
