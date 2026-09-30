@@ -44,6 +44,7 @@ Each has a working dashboard and a paper in Springer Nature journal format.
 
 - **[CS2 Inventory Exporter](https://github.com/harsh-github007/cs2-inventory-exporter):** export any public Counter-Strike 2 inventory to CSV, with wear, rarity and trade status. [Live app](https://cs2-inventory-exporter-auxo.vercel.app/)
 - **[Sort Bench](https://github.com/harsh-github007/sorting-aglo-visualization):** watch nine sorting algorithms step by step, rewind them, and race two on the same input. [Live demo](https://harsh-github007.github.io/sorting-aglo-visualization/)
+- **[Deck Updater](https://github.com/harsh-github007/deck-updater):** refresh PowerPoint decks from Excel in one run, with text tokens, tables, pictures and charts filled from the workbook. Built as a browser app, a Python library and an Excel add-in. [Live app](https://deck-updater.vercel.app)
 - **[Banking System](https://github.com/harsh-github007/Banking-System):** a UML design for a retail bank's core system, in nine Mermaid diagrams.
 
 ### 🧰 Tools I work with
