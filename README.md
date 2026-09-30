@@ -56,9 +56,9 @@ Each has a working dashboard and a paper in Springer Nature journal format.
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-### 📊 Most used languages
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg" />
-  <img src="assets/languages-light.svg" alt="Most used languages across my repositories" width="460" />
+  <img src="assets/languages-light.svg" alt="Most used languages across my repositories" width="100%" />
 </picture>

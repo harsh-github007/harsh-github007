@@ -62,20 +62,21 @@ def shares():
 
 def svg(top, n, dark):
     fg, muted, bg, border = ("#e6edf3", "#8b949e", "#0d1117", "#30363d") if dark else ("#1f2328", "#59636e", "#ffffff", "#d1d9e0")
-    w, pad, bar_y = 460, 22, 64
+    w, pad, bar_y, cols = 880, 24, 64, 4
     x, bar = pad, []
     for i, (lang, v) in enumerate(top):
         bw = (w - 2 * pad) * v
         bar.append(f'<rect x="{x:.1f}" y="{bar_y}" width="{max(bw, 0.5):.1f}" height="10" fill="{COLORS.get(lang, COLORS["Other"])}"/>')
         x += bw
-    rows = (len(top) + 1) // 2
+    rows = (len(top) + cols - 1) // cols
     legend = []
     for i, (lang, v) in enumerate(top):
-        col, row = i % 2, i // 2
-        lx, ly = pad + col * (w - 2 * pad) / 2, 100 + row * 24
+        col, row = i % cols, i // cols
+        cw = (w - 2 * pad) / cols
+        lx, ly = pad + col * cw, 100 + row * 24
         legend.append(f'<circle cx="{lx + 5}" cy="{ly - 4}" r="5" fill="{COLORS.get(lang, COLORS["Other"])}"/>'
                       f'<text x="{lx + 16}" y="{ly}" class="t">{lang}</text>'
-                      f'<text x="{lx + (w - 2 * pad) / 2 - 18}" y="{ly}" class="m" text-anchor="end">{100 * v:.1f}%</text>')
+                      f'<text x="{lx + cw - 24}" y="{ly}" class="m" text-anchor="end">{100 * v:.1f}%</text>')
     h = 100 + rows * 24 + 8
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="Most used languages">
 <style>.h{{font:600 16px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:{fg}}}.s{{font:12px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:{muted}}}.t{{font:13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:{fg}}}.m{{font:13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:{muted}}}</style>
