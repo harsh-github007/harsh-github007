@@ -62,7 +62,7 @@ def shares():
 
 def svg(top, n, dark):
     fg, muted, bg, border = ("#e6edf3", "#8b949e", "#0d1117", "#30363d") if dark else ("#1f2328", "#59636e", "#ffffff", "#d1d9e0")
-    w, pad, bar_y, cols = 880, 24, 64, 4
+    w, pad, bar_y, cols = 1040, 24, 44, 4
     x, bar = pad, []
     for i, (lang, v) in enumerate(top):
         bw = (w - 2 * pad) * v
@@ -73,16 +73,16 @@ def svg(top, n, dark):
     for i, (lang, v) in enumerate(top):
         col, row = i % cols, i // cols
         cw = (w - 2 * pad) / cols
-        lx, ly = pad + col * cw, 100 + row * 24
+        lx, ly = pad + col * cw, 80 + row * 24
         legend.append(f'<circle cx="{lx + 5}" cy="{ly - 4}" r="5" fill="{COLORS.get(lang, COLORS["Other"])}"/>'
                       f'<text x="{lx + 16}" y="{ly}" class="t">{lang}</text>'
                       f'<text x="{lx + cw - 24}" y="{ly}" class="m" text-anchor="end">{100 * v:.1f}%</text>')
-    h = 100 + rows * 24 + 8
+    h = 80 + rows * 24 + 4
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="Most used languages">
 <style>.h{{font:600 16px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:{fg}}}.s{{font:12px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:{muted}}}.t{{font:13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:{fg}}}.m{{font:13px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:{muted}}}</style>
 <rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="8" fill="{bg}" stroke="{border}"/>
-<text x="{pad}" y="32" class="h">Most used languages</text>
-<text x="{pad}" y="50" class="s">Share of code, averaged across {n} repositories</text>
+<text x="{pad}" y="30" class="h">Most used languages</text>
+<text x="{w - pad}" y="30" class="s" text-anchor="end">Share of code, averaged across {n} repositories</text>
 <clipPath id="c"><rect x="{pad}" y="{bar_y}" width="{w - 2 * pad}" height="10" rx="5"/></clipPath>
 <g clip-path="url(#c)">{"".join(bar)}</g>
 {"".join(legend)}
