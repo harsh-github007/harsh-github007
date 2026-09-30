@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harsh Raj 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/harsh-github007"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2A78D6&center=true&vCenter=true&width=620&lines=MS+Financial+Engineering+%40+NYU+Tandon;Ex-Bank+of+America+%C2%B7+regulatory+risk+%26+ETL+automation;I+turn+financial+data+into+tools+people+can+use" alt="MS Financial Engineering at NYU Tandon · Ex-Bank of America · I turn financial data into tools people can use" /></a>
+  <a href="https://github.com/harsh-github007"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2A78D6&center=true&vCenter=true&width=620&lines=MS+Financial+Engineering+%40+NYU+Tandon;Ex-Bank+of+America+%C2%B7+regulatory+risk+%26+ETL+automation;I+turn+financial+data+into+tools+people+can+use" alt="MS Financial Engineering at NYU Tandon · Ex-Bank of America · I turn data into tools people can use" /></a>
 </p>
 
 <p align="center">
