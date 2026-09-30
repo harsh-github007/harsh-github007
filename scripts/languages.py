@@ -3,7 +3,7 @@
 Each public, non-fork repository counts equally: its language byte counts (from GitHub's
 languages API, which ignores vendored files) are turned into shares, and the shares are
 averaged across repositories. This stops one large notebook from swamping everything else.
-Writes assets/languages-light.svg and assets/languages-dark.svg.
+Writes assets/languages-card-light.svg and assets/languages-card-dark.svg.
 """
 import json
 import os
@@ -113,7 +113,7 @@ def main():
     top, n = shares()
     OUT.mkdir(exist_ok=True)
     for dark in (False, True):
-        name = f"languages-{'dark' if dark else 'light'}.svg"
+        name = f"languages-card-{'dark' if dark else 'light'}.svg"
         content = svg(top, n, dark)
         (OUT / name).write_text(content)
         if os.environ.get("COMMIT") == "1":
